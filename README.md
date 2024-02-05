@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gaikwad</h1>
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from India</h3>
 
-<img align="right" alt="Coding" width="350" src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sudhanshu_1313" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanshu_1313?logo=twitter&style=for-the-badge" alt="sudhanshu_1313" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sudhanshug17981" target="blank"><img src="https://img.shields.io/twitter/follow/@sudhanshug17981?logo=twitter&style=for-the-badge" alt="@sudhanshug17981" /></a> </p>
 
 - 🌱 I’m currently learning **React Js | Redux Js**
 
-- 👯 👯 I've completed project  [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
+- 👯 I've completed project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
 - 👨‍💻 All of my projects are available at [https://sggaikwadportfolio.netlify.app/](https://sggaikwadportfolio.netlify.app/)
 
@@ -21,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sudhanshu_1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhanshu_1313" height="30" width="40" /></a>
+<a href="https://twitter.com/@sudhanshug17981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sudhanshug17981" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://instagram.com/sudhanshu_1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanshu_1313" height="30" width="40" /></a>
 </p>
