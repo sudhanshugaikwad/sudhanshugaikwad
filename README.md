@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gaikwad</h1>
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from India</h3>
+<img align="right" alt="Coding" width="350" src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" /> </p>
 
