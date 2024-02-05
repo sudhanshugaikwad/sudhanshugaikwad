@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js | Redux Js**
 
-- 👯 I’m completed to collaborate on [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
+- 👯 👯 I've completed project  [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
 - 👨‍💻 All of my projects are available at [https://sggaikwadportfolio.netlify.app/](https://sggaikwadportfolio.netlify.app/)
 
