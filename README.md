@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Gaikwad</h1>
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from  India</h3>
-<img align="right" alt="Coding" width="350" src="[[https://lottiefiles.com/animations/developer-front-end-Wtv3yP2k4r](https://camo.githubusercontent.com/368186a74c6fbbffc702b4e74ea995ea9ba0949b697c015c5b022c272bd4c566/68747470733a2f2f7777772e73617276696b612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f4261636b656e642d446576656c6f7065722d507974686f6e2d4749462d44726962626c652e676966)](https://img.freepik.com/free-vector/colorful-web-design-concept-with-flat-design_23-2147944775.jpg?w=740&t=st=1707129345~exp=1707129945~hmac=31314419b716799c397db004567ee8a38388c00a921eddc6b899f8f627903b59)">
+<img align="right" alt="Coding" width="350" src="https://camo.githubusercontent.com/368186a74c6fbbffc702b4e74ea995ea9ba0949b697c015c5b022c272bd4c566/68747470733a2f2f7777772e73617276696b612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30332f4261636b656e642d446576656c6f7065722d507974686f6e2d4749462d44726962626c652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" /> </p>
 
