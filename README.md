@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sudhanshu_1313" target="blank"><img src="https://img.shields.io/twitter/follow/sudhanshu_1313?logo=twitter&style=for-the-badge" alt="sudhanshu_1313" /></a> </p>
 
-- 🌱 I’m currently learning **React Js | Redux Js**
+- 🌱 I’m currently learning  React Js | Redux Js
 
 - 👯 I’ve completed a project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
 - 👨‍💻 All of my projects are available at [https://sggaikwadportfolio.netlify.app/](https://sggaikwadportfolio.netlify.app/)
 
-- 💬 Ask me about ** Web Developer | React Js**
+- 💬 Ask me about  Web Developer | React Js
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
