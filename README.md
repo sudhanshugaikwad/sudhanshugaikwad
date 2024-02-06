@@ -12,7 +12,7 @@
 
 - 👯 I’ve completed a project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
-- 👨‍💻 All of my projects are available at [[https://sggaikwadportfolio.netlify.app/](https://sudhanshugaikwad.netlify.app/)](https://sggaikwadportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sudhanshugaikwad.netlify.app/](https://sudhanshugaikwad.netlify.app/)
 
 - 💬 Ask me about  Web Developer | React Js
 
