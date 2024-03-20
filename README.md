@@ -4,7 +4,7 @@
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from India</h3>
 <hr></hr>
 
-<img align="right" alt="Coding" width="350" src="https://www.thereactivedeveloper.com/assets/hero-me-dark.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 
 
