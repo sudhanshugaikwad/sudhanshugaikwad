@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" /> </p>
 
-- 🌱  I’m currently working on **React Js | Redux Js**
+- 🌱  I’m currently working on **React Js | Redux Js | Material UI**
 
 - 👯 I’ve completed a project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
 - 👨‍💻 All of my projects are available at [https://sudhanshugaikwad.netlify.app/](https://sudhanshugaikwad.netlify.app/)
 
-- 💬 Ask me about  **Front-end | React Js | Redux Js**
+- 💬 Ask me about  **Front-End | React Js **
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
