@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sudhanshugaikwad.netlify.app/](https://sudhanshugaikwad.netlify.app/)
 
-- 💬 Ask me about  **Web Developer | React Js**
+- 💬 Ask me about  ** Front-end | React Js | Redux Js **
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
