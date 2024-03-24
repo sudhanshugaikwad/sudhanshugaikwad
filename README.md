@@ -1,5 +1,5 @@
 ![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_GitHub_Banner.png)
-<h1 align="center">Hi 👋, I'm Sudhanshu Gaikwad</h1>
+<h1 align="center">Hi, I'm Sudhanshu Gaikwad</h1>
 <hr></hr>
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from India</h3>
 <hr></hr>
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sudhanshugaikwad.netlify.app/](https://sudhanshugaikwad.netlify.app/)
 
-- 💬 Ask me about  **Front-End | React Js **
+- 💬 Ask me about  **Front-End | React Js**
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
