@@ -15,7 +15,7 @@
 
 - 👯 I’ve completed a project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
 
-- 👨‍💻 All of my projects are available at [https://sudhanshugaikwad.netlify.app/](https://sudhanshugaikwad.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
 
 - 💬 Ask me about  **Front-End | React Js**
 
