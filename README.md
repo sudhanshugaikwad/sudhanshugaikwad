@@ -4,7 +4,7 @@
 <h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
 <hr></hr>
 <p align="center">Hello, I'm a Frontend Developer from India, India who loves turning complex ideas into <b> user-friendly websites </b> using the MERN Stack. My goal is straightforward: to create <b> Efficient, Reliable, </b> and <b> Beautiful digital experiences</b>. I've learned something new every day, developing a comprehensive understanding of front-end development.
-Feel free to connect with me or check out some of the projects that I've developed.</p>
+Feel free to connect with me or check out some of the projects on :https://linktr.ee/sudhanshu_1313 , I've developed.</p>
 
 
 
