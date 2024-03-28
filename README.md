@@ -1,6 +1,8 @@
 ![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/GitHub01.png)
 
 <hr></hr>
+<h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
+<hr></hr>
 
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
