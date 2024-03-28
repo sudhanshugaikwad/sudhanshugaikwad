@@ -2,6 +2,13 @@
 
 <hr></hr>
 <h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
+<ul>
+  <li> India who loves turning complex ideas into user-friendly websites using the MERN Stack.</li>
+  <li> India who loves turning complex ideas into user-friendly websites using the MERN Stack.</li>
+  <li> India who loves turning complex ideas into user-friendly websites using the MERN Stack.</li>
+</ul>
+
+
 <hr></hr>
 
 
