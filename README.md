@@ -24,7 +24,7 @@ Feel free to connect with me or check out some of the projects that I've develop
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
 
-- 💬 Ask me about  **Front-End | React Js**
+- 💬 Ask me about  **Front-End Developer | React Js**
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
