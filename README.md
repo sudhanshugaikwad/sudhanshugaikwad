@@ -1,4 +1,4 @@
-![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_GitHub_Banner.png)
+![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/GitHub01.png)
 <h1 align="center">Hi, I'm Sudhanshu Gaikwad</h1>
 <hr></hr>
 <h3 align="center">Hello, I'm a passionately driven Frontend Developer from India</h3>
