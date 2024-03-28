@@ -1,8 +1,9 @@
 ![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/GitHub01.png)
 
 <hr></hr>
-<h4 align="center">Hi, I'm Sudhanshu Gaikwad</h4>
-<p align="center">Hello, I'm a Frontend Developer from Nanded, India who loves turning complex ideas into user-friendly websites using the MERN Stack. My goal is straightforward: to create efficient, reliable, and beautiful digital experiences.I've learned something new every day, developing a comprehensive understanding of front-end development.
+<h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
+<hr></hr>
+<p align="center">Hello, I'm a Frontend Developer from India, India who loves turning complex ideas into user-friendly websites using the MERN Stack. My goal is straightforward: to create efficient, reliable, and beautiful digital experiences.I've learned something new every day, developing a comprehensive understanding of front-end development.
 Feel free to connect with me or check out some of the projects that I've developed.</p>
 
 
