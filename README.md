@@ -20,7 +20,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 - 🌱  I’m currently working on **React Js | Redux Js | Material UI**
 
-- 👯 I’ve completed a project [Instagram](https://sudhanshuinstagram.netlify.app/SingnUp)
+- 👯 I’ve completed a project [ Chaitanya Natural ](https://chaitanya-2bhr.onrender.com/)
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
 
