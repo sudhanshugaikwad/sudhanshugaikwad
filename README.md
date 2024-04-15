@@ -14,6 +14,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 <p>
     <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/info.gif" alt="Demo GIF" width="300" align="right">
     <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
+    <hr></hr>
 </p>
 
 - 🌱 I’m currently working on **React Js | Redux Js | Material UI**
