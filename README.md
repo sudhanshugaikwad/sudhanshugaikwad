@@ -21,7 +21,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 - 💬 Ask me about **Front-End Developer | React Js**
 
 <p align="right">
-    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="350">
+    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="300">
 </p>
 
 
