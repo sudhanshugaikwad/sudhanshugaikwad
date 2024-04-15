@@ -1,5 +1,5 @@
-![logo](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/GitHub01.png)
 
+![Demo GIF](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Profile.gif)
 <hr></hr>
 <h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
 
