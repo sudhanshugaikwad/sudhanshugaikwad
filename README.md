@@ -11,7 +11,8 @@ Feel free to connect with me or check out some of the projects that I've Develop
 <hr></hr>
 
 
-<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
+
+<img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 400px;">
 
 
 
