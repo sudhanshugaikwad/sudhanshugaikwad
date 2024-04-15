@@ -15,14 +15,13 @@ Feel free to connect with me or check out some of the projects that I've Develop
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" />
 </p>
-
 - 🌱 I’m currently working on **React Js | Redux Js | Material UI**
 - 👯 I’ve completed a project [Chaitanya Natural](https://chaitanya-2bhr.onrender.com/)
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
 - 💬 Ask me about **Front-End Developer | React Js**
 
 <p align="right">
-    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="300">
+    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="350">
 </p>
 
 
