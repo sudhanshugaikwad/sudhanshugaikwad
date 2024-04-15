@@ -11,7 +11,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 <hr></hr>
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1;">
+    <div>
         <p align="left">
             <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" />
         </p>
@@ -23,7 +23,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
         </ul>
     </div>
     <div>
-        <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 250px;">
+        <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 350px;">
     </div>
 </div>
 
