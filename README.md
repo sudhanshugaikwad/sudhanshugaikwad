@@ -1,10 +1,9 @@
 
 ![Demo GIF](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Profile.gif)
 <hr></hr>
-<h3 align="center">Hello, I'm a  Frontend Developer from India</h3>
+  <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="text:center; width: 400px;">
 
-<p align="center">Hello, I'm a Frontend Developer from India, India who loves turning complex ideas into <b> user-friendly websites </b> using the MERN Stack. My goal is straightforward: to create <b> Efficient, Reliable, </b> and <b> Beautiful digital experiences</b>. I've learned something new every day, developing a comprehensive understanding of front-end development.
-Feel free to connect with me or check out some of the projects that I've Developed.</p>
+
 
 
 
@@ -27,7 +26,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 - 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
-  <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 300px;">
+
 
 
 
