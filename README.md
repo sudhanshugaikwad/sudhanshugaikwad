@@ -23,7 +23,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
         </ul>
     </div>
     <div>
-        <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 300px;">
+        <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 250px;">
     </div>
 </div>
 
