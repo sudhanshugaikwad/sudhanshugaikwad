@@ -12,7 +12,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 <hr></hr>
 
 <p>
-    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="370" align="right">
+    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" width="300" align="right">
     <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
 </p>
 
