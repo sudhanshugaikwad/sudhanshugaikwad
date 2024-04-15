@@ -10,22 +10,22 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 <hr></hr>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <p align="left">
-            <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" />
-        </p>
-        <ul>
-            <li>🌱 I’m currently working on <strong>React Js | Redux Js | Material UI</strong></li>
-            <li>👯 I’ve completed a project <a href="https://chaitanya-2bhr.onrender.com/">Chaitanya Natural</a></li>
-            <li>👨‍💻 All of my projects are available at <a href="https://linktr.ee/sudhanshu_1313">https://linktr.ee/sudhanshu_1313</a></li>
-            <li>💬 Ask me about <strong>Front-End Developer | React Js</strong></li>
-        </ul>
-    </div>
-    <div>
-        <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 350px;">
-    </div>
-</div>
+<img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Info.gif" alt="Demo GIF" style="float: right; width: 300px;">
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313" /> </p>
+
+- 🌱  I’m currently working on **React Js | Redux Js | Material UI**
+
+- 👯 I’ve completed a project [ Chaitanya Natural ](https://chaitanya-2bhr.onrender.com/)
+
+- 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
+
+- 💬 Ask me about  **Front-End Developer | React Js**
+
+- 📫 How to reach me **sudhanshugaikwad517@gmail.com**
 
 
 
