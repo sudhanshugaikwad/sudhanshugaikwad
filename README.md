@@ -13,9 +13,10 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 <p>
     <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/info.gif" alt="Demo GIF" width="300" align="right">
-    <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
     <hr></hr>
 </p>
+
+
 
 - 🌱 I’m currently working on **React Js | Redux Js | Material UI**
 - 👯 I’ve completed a project [Chaitanya Natural](https://chaitanya-2bhr.onrender.com/)
@@ -25,7 +26,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 
 
-
+  <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_1313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SudhanshuG17981) 
 
 <hr></hr>
