@@ -19,7 +19,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 
 - 🌱 I’m currently working on **React Js | Redux Js | Material UI**
-- 👯 I’ve completed a project [Chaitanya Natural](https://chaitanya-2bhr.onrender.com/)
+- 👯 I’ve completed a project [Chaitanya Natural E-commerce website ](https://ecommerce-lo8o.onrender.com)
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sudhanshu_1313](https://linktr.ee/sudhanshu_1313)
 - 💬 Ask me about **Front-End Developer | React Js**
 
