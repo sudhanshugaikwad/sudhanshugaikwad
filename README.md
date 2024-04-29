@@ -26,6 +26,8 @@ Feel free to connect with me or check out some of the projects that I've Develop
 
 <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
 
+[![](https://visitcount.itsvg.in/api?id=sudhanshu1919&icon=0&color=11)](https://visitcount.itsvg.in)
+
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_1313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SudhanshuG17981) 
 
 <hr></hr>
