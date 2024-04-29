@@ -24,7 +24,8 @@ Feel free to connect with me or check out some of the projects that I've Develop
 - 💬 Ask me about **Front-End Developer | React Js**
 
 
-(https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
+<img src="https://komarev.com/ghpvc/?username=sudhanshu1313&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu1313">
+
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_1313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SudhanshuG17981) 
 
 <hr></hr>
@@ -43,6 +44,12 @@ Feel free to connect with me or check out some of the projects that I've Develop
 ![](https://github-readme-stats.vercel.app/api?username=sudhanshu1313&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu1313&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu1313&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<hr>
+
+![](https://github-readme-stats.vercel.app/api?username=sudhanshu1919&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu1919&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu1919&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
