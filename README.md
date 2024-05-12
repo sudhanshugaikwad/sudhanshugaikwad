@@ -24,7 +24,7 @@ Feel free to connect with me or check out some of the projects that I've Develop
 - 💬 Ask me about **Front-End Developer | React Js**
 
 
-[![](https://visitcount.itsvg.in/api?id=sudhanshu1919&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sudhanshu1919&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu_1313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SudhanshuG17981) 
