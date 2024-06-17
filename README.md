@@ -3,7 +3,10 @@
 <hr></hr>
 
 
-<p align="center">Frontend Developer from Incredible India loves converting complex ideas into user-friendly websites through MERN Stack.
+<p align="center">Frontend Developer from Incredible Frontend Developer from Incredible India loves converting complex ideas into user-friendly websites through MERN Stack.
+Creator of efficient, reliable and beautiful digital expertise. 
+Seeking daily innovation and execution in my front-end development.
+Contact me for further details.India loves converting complex ideas into user-friendly websites through MERN Stack.
 Creator of efficient, reliable and beautiful digital expertise. 
 Seeking daily innovation and execution in my front-end development.
 Contact me for further details.</p>
