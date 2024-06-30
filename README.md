@@ -53,4 +53,11 @@ Contact me for further details.</p>
 
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sudhanshu1919&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sudhanshu1919&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
 
