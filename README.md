@@ -1,5 +1,5 @@
 
-![Demo GIF](https://github.com/sudhanshu1313/sudhanshu1313/blob/main/Sudhanshu_Profile.gif)
+![Demo JPG](https://github.com/sudhanshu1919/sudhanshu1919/blob/main/SudhanshuBg.jpg)
 <hr></hr>
 
 
