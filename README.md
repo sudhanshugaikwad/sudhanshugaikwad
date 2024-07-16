@@ -17,7 +17,7 @@ Contact me for further details.</p>
 
 
 <p>
-    <img src="https://github.com/sudhanshu1313/sudhanshu1313/blob/main/info.gif" alt="Demo GIF" width="300" align="right">
+    <img src="https://github.com/sudhanshu1919/sudhanshu1919/blob/main/Web_developer.png" alt="Demo GIF" width="300" align="right">
     <hr></hr>
 </p>
 
