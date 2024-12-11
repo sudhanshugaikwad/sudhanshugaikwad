@@ -33,6 +33,8 @@ Contact me for further details.</p>
 
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zenixtech) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/zenixtech)
+
 
 <hr></hr>
 
