@@ -32,7 +32,7 @@ Contact me for further details.</p>
 [![](https://visitcount.itsvg.in/api?id=sudhanshu1919&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@sudhanshudeveloper1414) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zenixtech) 
 
 <hr></hr>
 
