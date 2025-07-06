@@ -65,18 +65,18 @@ Contact me for further details.</p>
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react)
 
 <!-- Backend --> 
-<p>Backend </p>
+
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)
 
 <!-- Database -->
-<p>Database</p>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-<p>Hosting</p>
+
 <!-- DevOps & Hosting -->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -87,18 +87,18 @@ Contact me for further details.</p>
 ![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=flat&logo=render&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-<p>Design & Tools</p>
+
 <!-- Design & Tools -->
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-<p>Others</p>
+
 <!-- Others -->
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white)
 
 <!-- Software Development & Agile -->
-<p>Software Development & Agile</p>
+
 ![Agile](https://img.shields.io/badge/Agile-%23f06d0a.svg?style=flat&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230072C6.svg?style=flat&logo=scrumalliance&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
