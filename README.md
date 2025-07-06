@@ -31,7 +31,9 @@ Contact me for further details.</p>
 
 ## 🌐 Connect with Me
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=sudhanshugaikwad&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=sudhanshugaikwad&label=Profile%20Views&color=12&icon=5)](https://visitcount.itsvg.in)
+![Profile Views](https://img.shields.io/badge/Profile_Views-Loading...-blue?style=flat)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://sudhanshugaikwad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshugaikwad)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sudhanshudevelopers)
