@@ -3,13 +3,8 @@
 <hr></hr>
 
 
-<p align="center">Frontend Developer from Incredible India loves converting complex ideas into user-friendly websites through MERN Stack.
-Creator of efficient, reliable and beautiful digital expertise. 
-Seeking daily innovation and execution in my front-end development.
-Contact me for further details.India loves converting complex ideas into user-friendly websites through MERN Stack.
-Creator of efficient, reliable and beautiful digital expertise. 
-Seeking daily innovation and execution in my front-end development.
-Contact me for further details.</p>
+<p align="center">I’m a Full Stack MERN Developer focused on building clean, intuitive, and scalable web applications. I work with React, Node.js, Express, and MongoDB, and I’m also exploring AI to create smarter and more efficient user experiences.
+I follow a Vibe Coding approach staying creative, focused, and user-centered throughout the development process. Whether it’s designing a smooth interface, building a strong backend, or integrating AI features, my goal is to create web applications that feel simple and seamless for users.</p>
 
 
 
