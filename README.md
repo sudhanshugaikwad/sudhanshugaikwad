@@ -26,7 +26,7 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 ## 🌐 Connect with Me
 
-
+[![](https://komarev.com/ghpvc/?username=sudhanshugaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://sudhanshugaikwad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshugaikwad)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sudhanshudevelopers)
