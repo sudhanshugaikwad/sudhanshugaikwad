@@ -27,7 +27,7 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 ## 🌐 Connect with Me
 
 
-[![](https://komarev.com/ghpvc/?username=sudhanshugaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://sudhanshugaikwad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshugaikwad)
@@ -106,7 +106,7 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 <tr>
 <td colspan="1" align="center">
-<img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img width="93%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </td>
 </tr>
 </table>
