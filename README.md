@@ -26,12 +26,14 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 ## 🌐 Connect with Me
 
+
 [![](https://komarev.com/ghpvc/?username=sudhanshugaikwad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://sudhanshugaikwad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshugaikwad)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/sudhanshudevelopers)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@sudhanshudeveloper)
-
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/sudhanshugaikwad)
 
 
 
@@ -94,7 +96,7 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sudhanshugaikwad&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudhanshugaikwad&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sudhanshugaikwad&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sudhanshugaikwad&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/LordDashMe/github-contributor-stats)
