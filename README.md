@@ -90,11 +90,29 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 # 📊 GitHub Stats </h5>
 
+
 <div align="center">
-![](https://github-readme-stats.shion.dev/api?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sudhanshugaikwad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+</td>
+
+<td>
+<img src="https://streak-stats.demolab.com/?user=sudhanshugaikwad&theme=dark&hide_border=false" />
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</td>
+</tr>
+</table>
+
 </div>
+
 
 
 ## 🏆 GitHub Trophies
