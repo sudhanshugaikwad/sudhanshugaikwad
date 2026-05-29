@@ -106,7 +106,7 @@ I follow a Vibe Coding approach staying creative, focused, and user-centered thr
 
 <tr>
 <td colspan="1" align="center">
-<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img width="90%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sudhanshugaikwad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </td>
 </tr>
 </table>
